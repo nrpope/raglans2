@@ -2570,6 +2570,15 @@ hr {
   border: 0;
   cursor: pointer;
 }
+.imgbox {
+  display: grid;
+  height: 100%;
+}
+.center-fit {
+  max-width: 100%;
+
+  margin: auto;
+}
 .gallery-area .gallery-box .single-gallery {
   overflow: hidden;
   z-index: 0;
