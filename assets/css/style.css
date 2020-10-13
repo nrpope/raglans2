@@ -295,7 +295,7 @@ hr {
   left: 20px;
   line-height: 40px;
   font-size: 22px;
-  color: #646464;
+  color: #ffffff;
   opacity: 1;
   visibility: visible;
   position: absolute;
@@ -2266,7 +2266,7 @@ hr {
 .slider-area .hero__caption p {
   margin-bottom: 30px;
   padding-right: 257px;
-  color: #212025;
+  color: #fff;
   overflow: hidden;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
